@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3126117600239155071
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 159249280873958933, guid: 5127a988d22d8f146b77f33d3e7923a6, type: 3}
+      propertyPath: m_Name
+      value: Squire
+      objectReference: {fileID: 0}
+    - target: {fileID: 159249280873958934, guid: 5127a988d22d8f146b77f33d3e7923a6, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 159249280873958934, guid: 5127a988d22d8f146b77f33d3e7923a6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.0103247
+      objectReference: {fileID: 0}
+    - target: {fileID: 159249280873958934, guid: 5127a988d22d8f146b77f33d3e7923a6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.42494008
+      objectReference: {fileID: 0}
+    - target: {fileID: 159249280873958934, guid: 5127a988d22d8f146b77f33d3e7923a6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.32651114
+      objectReference: {fileID: 0}
+    - target: {fileID: 159249280873958934, guid: 5127a988d22d8f146b77f33d3e7923a6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 159249280873958934, guid: 5127a988d22d8f146b77f33d3e7923a6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 159249280873958934, guid: 5127a988d22d8f146b77f33d3e7923a6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 159249280873958934, guid: 5127a988d22d8f146b77f33d3e7923a6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 159249280873958934, guid: 5127a988d22d8f146b77f33d3e7923a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 159249280873958934, guid: 5127a988d22d8f146b77f33d3e7923a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 159249280873958934, guid: 5127a988d22d8f146b77f33d3e7923a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 159249281411863494, guid: 5127a988d22d8f146b77f33d3e7923a6, type: 3}
+      propertyPath: m_text
+      value: Squire
+      objectReference: {fileID: 0}
+    - target: {fileID: 159249281411863494, guid: 5127a988d22d8f146b77f33d3e7923a6, type: 3}
+      propertyPath: 'm_ActiveFontFeatures.Array.data[0]'
+      value: 1801810542
+      objectReference: {fileID: 0}
+    - target: {fileID: 159249282257754459, guid: 5127a988d22d8f146b77f33d3e7923a6, type: 3}
+      propertyPath: m_text
+      value: Can block creatures with <b>Flying</b>
+      objectReference: {fileID: 0}
+    - target: {fileID: 159249282257754459, guid: 5127a988d22d8f146b77f33d3e7923a6, type: 3}
+      propertyPath: 'm_ActiveFontFeatures.Array.data[0]'
+      value: 1801810542
+      objectReference: {fileID: 0}
+    - target: {fileID: 159249282467384192, guid: 5127a988d22d8f146b77f33d3e7923a6, type: 3}
+      propertyPath: m_Size.x
+      value: 1.76
+      objectReference: {fileID: 0}
+    - target: {fileID: 159249282467384192, guid: 5127a988d22d8f146b77f33d3e7923a6, type: 3}
+      propertyPath: m_Size.y
+      value: 1.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 159249282467384192, guid: 5127a988d22d8f146b77f33d3e7923a6, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 96e423223bda883489eefb0ec09e1721, type: 3}
+    - target: {fileID: 793977335635379613, guid: 5127a988d22d8f146b77f33d3e7923a6, type: 3}
+      propertyPath: 'm_ActiveFontFeatures.Array.data[0]'
+      value: 1801810542
+      objectReference: {fileID: 0}
+    - target: {fileID: 2211736852692229615, guid: 5127a988d22d8f146b77f33d3e7923a6, type: 3}
+      propertyPath: 'm_ActiveFontFeatures.Array.data[0]'
+      value: 1801810542
+      objectReference: {fileID: 0}
+    - target: {fileID: 2211736853550467824, guid: 5127a988d22d8f146b77f33d3e7923a6, type: 3}
+      propertyPath: 'm_ActiveFontFeatures.Array.data[0]'
+      value: 1801810542
+      objectReference: {fileID: 0}
+    - target: {fileID: 8469058276514919841, guid: 5127a988d22d8f146b77f33d3e7923a6, type: 3}
+      propertyPath: Cost.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8469058276514919841, guid: 5127a988d22d8f146b77f33d3e7923a6, type: 3}
+      propertyPath: Cost.Array.data[0].Cost.Amount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8469058276514919841, guid: 5127a988d22d8f146b77f33d3e7923a6, type: 3}
+      propertyPath: Cost.Array.data[0].Cost.CurrencyType
+      value: 
+      objectReference: {fileID: 11400000, guid: 5da0106178a4901479690b8c5a922051, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5127a988d22d8f146b77f33d3e7923a6, type: 3}
