@@ -106,6 +106,20 @@ namespace CardHouse
             }
         }
 
+        public void GoToPhase(int index)
+        {
+            StartCoroutine(GoToPhaseRoutine(index));
+        }
+
+        IEnumerator GoToPhaseRoutine(int index)
+        {
+            foreach (var button in AllPhaseDependentButtons) button.interactable = false;
+            yield return CurrentPhase.End();
+            CurrentPhaseIndex = index;
+            yield return CurrentPhase.Start();
+            OnPhaseChanged?.Invoke(CurrentPhase);
+        }
+
         void Update()
         {
 #if DEBUG

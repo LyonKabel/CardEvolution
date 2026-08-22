@@ -96,6 +96,34 @@ PrefabInstance:
       propertyPath: 'm_ActiveFontFeatures.Array.data[0]'
       value: 1801810542
       objectReference: {fileID: 0}
+    - target: {fileID: 2860220537193295494, guid: 5127a988d22d8f146b77f33d3e7923a6, type: 3}
+      propertyPath: OnMount.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2860220537193295494, guid: 5127a988d22d8f146b77f33d3e7923a6, type: 3}
+      propertyPath: OnMount.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2860220537193295494, guid: 5127a988d22d8f146b77f33d3e7923a6, type: 3}
+      propertyPath: OnMount.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 128628808507652015}
+    - target: {fileID: 2860220537193295494, guid: 5127a988d22d8f146b77f33d3e7923a6, type: 3}
+      propertyPath: OnMount.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2860220537193295494, guid: 5127a988d22d8f146b77f33d3e7923a6, type: 3}
+      propertyPath: OnMount.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: UpdateHandler
+      objectReference: {fileID: 0}
+    - target: {fileID: 2860220537193295494, guid: 5127a988d22d8f146b77f33d3e7923a6, type: 3}
+      propertyPath: OnMount.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: DragGateDimmer, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 2860220537193295494, guid: 5127a988d22d8f146b77f33d3e7923a6, type: 3}
+      propertyPath: OnMount.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 8469058276514919841, guid: 5127a988d22d8f146b77f33d3e7923a6, type: 3}
       propertyPath: Cost.Array.size
       value: 1
@@ -113,3 +141,14 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5127a988d22d8f146b77f33d3e7923a6, type: 3}
+--- !u!114 &128628808507652015 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 3074489998576386256, guid: 5127a988d22d8f146b77f33d3e7923a6, type: 3}
+  m_PrefabInstance: {fileID: 3126117600239155071}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97247fe53d8fc4a4c8685da719d8da7a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
